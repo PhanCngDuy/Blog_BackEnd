@@ -1,0 +1,12 @@
+ACTIVE_PROFILE: dev
+
+MYSQL_SQL_DB: blog
+MYSQL_SQL_HOST: localhost
+MYSQL_SQL_PASSWORD: Duy@1401
+MYSQL_SQL_PORT: 3306
+MYSQL_SQL_USERNAME: root
+
+SERVER_PORT: 8080
+
+ALLOWED_ORIGINS: http://localhost:3000,http://localhost:3001
+PATH_UPLOAD_FILE: C:\\data backup D\\blog-project\\member_uploads
